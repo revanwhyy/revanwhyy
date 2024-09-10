@@ -8,5 +8,6 @@
 - 💬 Ask me about anything relaated about cloud computing
 - 📫 How to reach me: zulfianrevandra@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like going outdoor activities and i like try new things 
+- ⚡ Fun fact: I like going outdoor activities and I like try new things 
+
 -->
