@@ -1,6 +1,6 @@
 ## Hi there I'm Revan 👋
 ## Welcome to My Github 
-Saya seorang mahasiswa jurusan Teknik Komputer dan Jaringan (TKJ) dengan minat yang kuat pada jaringan komputer, konfigurasi perangkat keras, dan keamanan siber. Saya senang memecahkan masalah teknis dan mengerjakan proyek langsung.
+I’m a student majoring in Technician of Computer and Network Engineering (TKJ) with a strong interest in computer networks, hardware configuration, and cybersecurity. I enjoy solving technical problems and working on hands-on projects.
 
 
 - 🔭 Currently I am a student at SMK Telkom Malang
